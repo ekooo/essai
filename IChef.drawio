@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-22T13:15:38.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="d58VooC_e_xc-3Kk-mPn" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-22T13:27:51.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="J3BB7GKIr54QANuTDNKU" version="12.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Global">
-    <mxGraphModel dx="2310" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2290" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -156,8 +156,8 @@
         <mxCell id="IEjxZz4co4LQKj0iL7b6-63" value="In profile section you can :&amp;nbsp;&lt;br&gt;- put picture&lt;br&gt;- Personal info&lt;br&gt;-Modify account&lt;br&gt;- Invite Friends /refer a host&lt;br&gt;- Get Help/customer services" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="240" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="IEjxZz4co4LQKj0iL7b6-66" value="Details of cooker&lt;br&gt;Number of cookers near your adress&lt;br&gt;Filter 1 (Rating, Badges, Minimum order, on site or take away,closest...)&lt;br&gt;Filter 2 :Type of cook" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="200" width="310" height="120" as="geometry" />
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-66" value="Details of cooker&lt;br&gt;Number of cookers near your adress&lt;br&gt;Filter 1 (Rating, Badges, Minimum order, on site or take away,closest...)&lt;br&gt;Filter 2 :Type of cook&lt;br&gt;Dietetic : Halal, gluten free, vegan, Allergy friendly, veggie" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="200" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IEjxZz4co4LQKj0iL7b6-67" value="You can choose :&lt;br&gt;- Facebook&amp;nbsp;&lt;br&gt;- Google&lt;br&gt;&lt;div&gt;&lt;span&gt;- Web&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-320" y="130" width="140" height="70" as="geometry" />
@@ -165,7 +165,7 @@
         <mxCell id="IEjxZz4co4LQKj0iL7b6-68" value="You can estimate what you could earn&amp;nbsp;&lt;br&gt;Why become a cooker/host?&lt;br&gt;Steps to become a cooker/host&lt;br&gt;Safety&lt;br&gt;Setup&lt;br&gt;Financials&amp;nbsp;&lt;br&gt;services&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-440" y="430" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="IEjxZz4co4LQKj0iL7b6-69" value="What kind of place are you listing ?&amp;nbsp;&lt;br&gt;Number of covers?&amp;nbsp;&lt;br&gt;Address&lt;br&gt;Photos&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-69" value="What kind of place ?&amp;nbsp;&lt;br&gt;Number of covers?&amp;nbsp;&lt;br&gt;Address&lt;br&gt;Photos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-580" y="580" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IEjxZz4co4LQKj0iL7b6-70" value="&lt;pre class=&quot;tw-data-text tw-text-large tw-ta&quot; id=&quot;tw-target-text&quot; dir=&quot;ltr&quot; style=&quot;font-size: 28px ; line-height: 36px ; border: none ; padding: 2px 0.14em 2px 0px ; position: relative ; margin-top: -2px ; margin-bottom: -2px ; resize: none ; font-family: inherit ; overflow: hidden ; text-align: left ; width: 283px ; white-space: pre-wrap ; overflow-wrap: break-word ; color: rgb(34 , 34 , 34)&quot;&gt;&lt;/pre&gt;Detail the speciality&lt;br&gt;Detail the Menu&lt;br&gt;Photos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -173,6 +173,12 @@
         </mxCell>
         <mxCell id="IEjxZz4co4LQKj0iL7b6-71" value="Select what you want to eat&lt;br&gt;view order" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="340" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-72" value="Number of guests&amp;nbsp;&lt;br&gt;Hour of reservation&amp;nbsp;&lt;br&gt;Comment/ special demand" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="505" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-73" value="Remind the order&amp;nbsp;&lt;br&gt;Request a container or bring your own&lt;br&gt;Payment&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="720" width="310" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
