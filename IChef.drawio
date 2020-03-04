@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-04T18:51:05.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="7fN6wNglaBGLH6yBGNQn" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-04T18:51:41.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="HzZXs4lhxGJM9I7AN5EO" version="12.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Global">
     <mxGraphModel dx="1865" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
         <mxCell id="JEsrRtBiaQGB9soBiPKQ-6" value="Message" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JEsrRtBiaQGB9soBiPKQ-8" value="Gestion des demandes spécifiques (proposition)&lt;br&gt;Rajouter la messagerie&lt;br&gt;Gain de point par commande user et cooker" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="JEsrRtBiaQGB9soBiPKQ-8" value="Gestion des demandes spécifiques (proposition)&lt;br&gt;Rajouter la messagerie&lt;br&gt;Gain de point, badges etc.. par commande passé pour le user et cooker" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-810" y="115" width="250" height="215" as="geometry" />
         </mxCell>
         <mxCell id="JEsrRtBiaQGB9soBiPKQ-9" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
