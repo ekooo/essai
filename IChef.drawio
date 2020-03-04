@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-04T19:09:45.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Rmy2gHuLh2k4QtHeXo_C" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-04T19:10:22.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="EKtwtf6IgXKzaj0QibSA" version="12.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Global">
     <mxGraphModel dx="1865" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
         <mxCell id="IEjxZz4co4LQKj0iL7b6-48" value="Already a cooker?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-140" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IEjxZz4co4LQKj0iL7b6-63" value="In profile section you can :&amp;nbsp;&lt;br&gt;- put picture&lt;br&gt;- Personal info&lt;br&gt;-Modify account&lt;br&gt;- Invite Friends /refer a host&lt;br&gt;- Get Help/customer services&lt;br&gt;- reward system" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-63" value="In profile section you can :&amp;nbsp;&lt;br&gt;- put picture&lt;br&gt;- Personal info&lt;br&gt;-Modify account&lt;br&gt;- Invite Friends /refer a host&lt;br&gt;- Get Help/customer services&lt;br&gt;- reward system&lt;br&gt;-Profile verification" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-450" y="240" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IEjxZz4co4LQKj0iL7b6-66" value="Number of cookers near your adress&lt;br&gt;Details of cooker (photo, rate,badge, distance, place(if host), etc..)&lt;br&gt;Filter 1 (Rating, Badges, Minimum order, on site or take away,closest...)&lt;br&gt;Filter 2 :Type of cook&lt;br&gt;Dietetic : Halal, gluten free, vegan, Allergy friendly, veggie" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
