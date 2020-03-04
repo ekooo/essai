@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-04T18:25:07.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="KhXdG7UFFHuNMXL8ODI6" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-04T18:29:23.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="4nPFsUX-2UxfnfZ9tOMK" version="12.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Global">
     <mxGraphModel dx="1865" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,8 +187,8 @@
         <mxCell id="IEjxZz4co4LQKj0iL7b6-69" value="What kind of place ?&amp;nbsp;&lt;br&gt;Number of covers?&amp;nbsp;&lt;br&gt;Address&lt;br&gt;Photos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-580" y="580" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IEjxZz4co4LQKj0iL7b6-70" value="&lt;pre class=&quot;tw-data-text tw-text-large tw-ta&quot; id=&quot;tw-target-text&quot; dir=&quot;ltr&quot; style=&quot;font-size: 28px ; line-height: 36px ; border: none ; padding: 2px 0.14em 2px 0px ; position: relative ; margin-top: -2px ; margin-bottom: -2px ; resize: none ; font-family: inherit ; overflow: hidden ; text-align: left ; width: 283px ; white-space: pre-wrap ; overflow-wrap: break-word ; color: rgb(34 , 34 , 34)&quot;&gt;&lt;/pre&gt;Detail the speciality&lt;br&gt;Detail the Menu&lt;br&gt;Number of persons&lt;br&gt;Photos&lt;br&gt;Enter a date&lt;br&gt;Dietetic filter" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-460" y="780" width="240" height="100" as="geometry" />
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-70" value="&lt;pre class=&quot;tw-data-text tw-text-large tw-ta&quot; id=&quot;tw-target-text&quot; dir=&quot;ltr&quot; style=&quot;font-size: 28px ; line-height: 36px ; border: none ; padding: 2px 0.14em 2px 0px ; position: relative ; margin-top: -2px ; margin-bottom: -2px ; resize: none ; font-family: inherit ; overflow: hidden ; text-align: left ; width: 283px ; white-space: pre-wrap ; overflow-wrap: break-word ; color: rgb(34 , 34 , 34)&quot;&gt;&lt;/pre&gt;Detail the speciality&lt;br&gt;Detail the Menu&lt;br&gt;Number of persons&lt;br&gt;Photos&lt;br&gt;Enter a date&lt;br&gt;Dietetic filter&lt;br&gt;Automatic confirmation ?&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-460" y="780" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="IEjxZz4co4LQKj0iL7b6-71" value="Menu détails&lt;br&gt;Select what you want to eat&lt;br&gt;view order&lt;br&gt;Comment/ special demand" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="340" width="310" height="120" as="geometry" />
@@ -205,7 +205,7 @@
         <mxCell id="JEsrRtBiaQGB9soBiPKQ-2" value="Manage the annoucement" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-160" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JEsrRtBiaQGB9soBiPKQ-5" value="Message&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="JEsrRtBiaQGB9soBiPKQ-5" value="Message&lt;br&gt;&amp;nbsp;Confirmation&lt;br&gt;Annulation" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-495" y="910" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JEsrRtBiaQGB9soBiPKQ-6" value="Message" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
