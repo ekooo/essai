@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-04T19:10:22.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="EKtwtf6IgXKzaj0QibSA" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-06-16T15:25:00.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="bwat9bTDru3xx6SJFemO" version="12.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Global">
-    <mxGraphModel dx="1865" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2105" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -67,7 +67,7 @@
         <mxCell id="IEjxZz4co4LQKj0iL7b6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IEjxZz4co4LQKj0iL7b6-35" target="IEjxZz4co4LQKj0iL7b6-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IEjxZz4co4LQKj0iL7b6-35" value="Become a cooker" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-35" value="Become a cook" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-160" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IEjxZz4co4LQKj0iL7b6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IEjxZz4co4LQKj0iL7b6-37" target="IEjxZz4co4LQKj0iL7b6-46" edge="1">
@@ -79,7 +79,7 @@
         <mxCell id="IEjxZz4co4LQKj0iL7b6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IEjxZz4co4LQKj0iL7b6-6" target="IEjxZz4co4LQKj0iL7b6-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IEjxZz4co4LQKj0iL7b6-6" value="Choose&amp;nbsp; a cooker" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-6" value="Choose&amp;nbsp; a cook" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IEjxZz4co4LQKj0iL7b6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IEjxZz4co4LQKj0iL7b6-8" target="IEjxZz4co4LQKj0iL7b6-13" edge="1">
@@ -116,7 +116,7 @@
         <mxCell id="IEjxZz4co4LQKj0iL7b6-15" value="Pay" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GEHkxKaBzucjHs-7Sc_5-1" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEHkxKaBzucjHs-7Sc_5-2">
+        <mxCell id="GEHkxKaBzucjHs-7Sc_5-1" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEHkxKaBzucjHs-7Sc_5-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="900" as="sourcePoint" />
             <mxPoint x="380" y="990" as="targetPoint" />
@@ -177,13 +177,13 @@
         <mxCell id="IEjxZz4co4LQKj0iL7b6-63" value="In profile section you can :&amp;nbsp;&lt;br&gt;- put picture&lt;br&gt;- Personal info&lt;br&gt;-Modify account&lt;br&gt;- Invite Friends /refer a host&lt;br&gt;- Get Help/customer services&lt;br&gt;- reward system&lt;br&gt;-Profile verification" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-450" y="240" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="IEjxZz4co4LQKj0iL7b6-66" value="Number of cookers near your adress&lt;br&gt;Details of cooker (photo, rate,badge, distance, place(if host), etc..)&lt;br&gt;Filter 1 (Rating, Badges, Minimum order, on site or take away,closest...)&lt;br&gt;Filter 2 :Type of cook&lt;br&gt;Dietetic : Halal, gluten free, vegan, Allergy friendly, veggie" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-66" value="Number of cook near your adress&lt;br&gt;Details of cooker (photo, rate,badge, distance, place(if host), etc..)&lt;br&gt;Filter 1 (Rating, Badges, Minimum order, on site or take away,closest...)&lt;br&gt;Filter 2 :Type of cook&lt;br&gt;Dietetic : Halal, gluten free, vegan, Allergy friendly, veggie" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="200" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IEjxZz4co4LQKj0iL7b6-67" value="You can choose :&lt;br&gt;- Facebook&amp;nbsp;&lt;br&gt;- Google&lt;br&gt;&lt;div&gt;&lt;span&gt;- Web&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-320" y="130" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IEjxZz4co4LQKj0iL7b6-68" value="You can estimate what you could earn&amp;nbsp;&lt;br&gt;Why become a cooker/host?&lt;br&gt;Steps to become a cooker/host&lt;br&gt;Safety&lt;br&gt;Setup&lt;br&gt;Financials&amp;nbsp;&lt;br&gt;services&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IEjxZz4co4LQKj0iL7b6-68" value="You can estimate what you could earn&amp;nbsp;&lt;br&gt;Why become a cook/host?&lt;br&gt;Steps to become a cooker/host&lt;br&gt;Safety&lt;br&gt;Setup&lt;br&gt;Financials&amp;nbsp;&lt;br&gt;services" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-440" y="430" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="IEjxZz4co4LQKj0iL7b6-69" value="What kind of place ?&amp;nbsp;&lt;br&gt;Number of covers?&amp;nbsp;&lt;br&gt;Address&lt;br&gt;Photos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -222,22 +222,22 @@
         <mxCell id="JEsrRtBiaQGB9soBiPKQ-10" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-150" y="260" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GEHkxKaBzucjHs-7Sc_5-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEHkxKaBzucjHs-7Sc_5-2" target="GEHkxKaBzucjHs-7Sc_5-6">
+        <mxCell id="GEHkxKaBzucjHs-7Sc_5-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEHkxKaBzucjHs-7Sc_5-2" target="GEHkxKaBzucjHs-7Sc_5-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GEHkxKaBzucjHs-7Sc_5-2" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; white-space: pre-wrap ; font-size: 11px&quot;&gt;Confirmation?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GEHkxKaBzucjHs-7Sc_5-2" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; white-space: pre-wrap ; font-size: 11px&quot;&gt;Confirmation?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="860" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GEHkxKaBzucjHs-7Sc_5-6" value="refund" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GEHkxKaBzucjHs-7Sc_5-6" value="refund" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GEHkxKaBzucjHs-7Sc_5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEHkxKaBzucjHs-7Sc_5-8" target="JEsrRtBiaQGB9soBiPKQ-6">
+        <mxCell id="GEHkxKaBzucjHs-7Sc_5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEHkxKaBzucjHs-7Sc_5-8" target="JEsrRtBiaQGB9soBiPKQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GEHkxKaBzucjHs-7Sc_5-8" value="Receive confirmation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GEHkxKaBzucjHs-7Sc_5-8" value="Receive confirmation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GEHkxKaBzucjHs-7Sc_5-11" value="Profile verification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GEHkxKaBzucjHs-7Sc_5-11" value="Profile verification" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
